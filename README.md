@@ -1,11 +1,5 @@
 # https://github.com/docker-library/ruby
 
-## Maintained by: [the Docker Community](https://github.com/docker-library/ruby)
-
-This is the Git repo of the [Docker "Official Image"](https://docs.docker.com/docker-hub/official_repos/) for [ruby](https://hub.docker.com/_/ruby/) (not to be confused with any official ruby image provided by ruby upstream). See [the Docker Hub page](https://hub.docker.com/_/ruby/) for the full readme on how to use this Docker image and for information regarding contributing and issues.
-
-The [full description from Docker Hub](https://hub.docker.com/_/ruby/) is generated over in [docker-library/docs](https://github.com/docker-library/docs), specifically in [docker-library/docs/ruby](https://github.com/docker-library/docs/tree/master/ruby).
-
 ## See a change merged here that doesn't show up on Docker Hub yet?
 
 Check [the "library/ruby" manifest file in the docker-library/official-images repo](https://github.com/docker-library/official-images/blob/master/library/ruby), especially [PRs with the "library/ruby" label on that repo](https://github.com/docker-library/official-images/labels/library%2Fruby).
